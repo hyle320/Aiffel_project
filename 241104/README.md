@@ -21,24 +21,28 @@
     
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
+ 
     - 자신이 작성한 코드의 의도를 잘 설명해 두었다.
 
       ![image](https://github.com/user-attachments/assets/843c4e83-114f-4886-836e-b14199abe93e)
         
 - [ ]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
+   
     -로스를 줄이기 위해 반복 구간을 늘렸다.
     
      ![image](https://github.com/user-attachments/assets/27522c80-f79c-4e96-b3c7-19098c4e02b5)
 
         
 - [ ]  **4. 회고를 잘 작성했나요?**
+  
     - 히트맵을 잘 설명했다.
     
       ![image](https://github.com/user-attachments/assets/47c757b0-8d13-4a0e-bd57-096f3942e7ea)
 
         
 - [ ]  **5. 코드가 간결하고 효율적인가요?**
+   
     - 모듈화가 잘 되었다.
 
       ![image](https://github.com/user-attachments/assets/24e081ad-c6a3-4e1f-8821-11780282c2ef)
