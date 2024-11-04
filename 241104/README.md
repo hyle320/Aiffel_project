@@ -10,10 +10,12 @@
     - 
         1.
            ![image](https://github.com/user-attachments/assets/a66d9bbf-b572-4c9b-aa99-6eb33ca77c4e)
+
            ![image](https://github.com/user-attachments/assets/1e0cede1-13a0-4414-a9ae-8fd45cb125c7)
      
         2.
            ![image](https://github.com/user-attachments/assets/9ea3c32f-9a0a-4294-add7-902b5081a582)
+
            ![image](https://github.com/user-attachments/assets/c284771d-c81d-4a02-90a4-3c7df5d8efd5)
 
     
